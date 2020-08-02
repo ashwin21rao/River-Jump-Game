@@ -1,7 +1,7 @@
 # River-Jump-Game
 Cross rivers, avoid boats and collect coins in this 2 player game!
 
-# GAME RULES and DESIGN CHOICES:
+# Game Rules:
 
 The game consists of multiple rounds. The player who wins the most rounds wins the game. If the scores
 are tied, the player with more coins wins the round. If the coins are also same, the player with greater time bonus
